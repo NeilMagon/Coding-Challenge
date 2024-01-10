@@ -1,0 +1,70 @@
+/*inizio background*/
+.boss{
+    background-image: url(background.jpg);
+    background-size: cover;
+    padding: 5%;
+}
+.container{
+    background-color: rgba(0,0,0,0.5);
+    width: 70%;
+    margin: auto;
+    border-radius: 20px;
+    padding: 100px;
+    }
+    /*inizio logo*/
+header{
+    opacity: 1;
+}
+.logo{
+    width: 15%;
+    margin: auto;}
+img{
+    width: 300px;}
+h1{
+    font-size: 60px;
+    text-align: center;
+    color: rgb(10, 204, 10);}
+/*inizio button*/
+.section{
+    background-color: rgb(12, 207, 12);
+    width: 70%;
+    padding: 15px;
+    margin: auto;}
+.operator{
+    width: 310px;
+    margin: auto;}
+.option{
+    display: inline-block;}
+/*inizio Informazioni*/
+.info{
+    padding: 20px;
+    width: 70%;
+    margin: auto;
+    color: white;
+}
+.dati{
+    font-size: 30px;
+}
+span{
+    font-size: 20px;}
+.prima{
+    height: 30px;
+    margin: 0%;
+    width: 50%;
+    background-color: orange;
+    border-radius: 10px;}
+.seconda{
+    height: 30px;
+    margin: 0%;
+    width: 80%;
+    background-color: green;
+    border-radius: 10px;}
+.terza{
+    height: 30px;
+    margin: 0%;
+    width: 20%;
+    background-color: red;
+    border-radius: 10px;}
+footer{
+    opacity: 1;
+}
